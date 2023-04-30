@@ -145,6 +145,7 @@ main {
     font-family: 'Poppins', sans-serif;
     text-align: center;
     font-size: 0.8rem;
+    padding-bottom: 1rem;
 }
 
 #creditText a{
